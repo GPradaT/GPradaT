@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **gpradat@andorra.ad, guillemprada@gmail.com**
 
-- 📄 Know about my experiences [I have been working since I was 16, but I have always been curious to learn new things, this led me to start several courses in Communication and sales, vehicle electromechanical, administration until I finally found my passion. I am currently developing my career as a programmer, making great progress since my first terminal commands in August 2023 in the pool of 42.](I have been working since I was 16, but I have always been curious to learn new things, this led me to start several courses in Communication and sales, vehicle electromechanical, administration until I finally found my passion. I am currently developing my career as a programmer, making great progress since my first terminal commands in August 2023 in the pool of 42.)
+//- 📄 Know about my experiences [I have been working since I was 16, but I have always been curious to learn new things, this led me to start several courses in Communication and sales, vehicle electromechanical, administration until I finally found my passion. I am currently developing my career as a programmer, making great progress since my first terminal commands in August 2023 in the pool of 42.]
 
 - ⚡ Soft Skills **- I enjoy challenges.**
 
