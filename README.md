@@ -6,8 +6,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gpradat" alt="gpradat" /></a> </p>
 
-- 🔭 I’m currently working on [nPuzzle](https://github.com/GPradaT/n-puzzle)
-
+- 🔭 I’m currently working on [ft_trascendence]
+  
 - 🌱 I’m currently learning **TensorFlow, Python, SQL**
 
 - 👯 I’m looking to collaborate on **AI Blockchain & VR/AR**
