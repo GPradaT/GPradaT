@@ -8,11 +8,9 @@
 
 - 🔭 I’m currently working on [ft_trascendence]
   
-- 🌱 I’m currently learning **TensorFlow, Python, SQL**
+- 🌱 I’m currently learning **OAuth2.0, Django, PostgreSQL**
 
-- 👯 I’m looking to collaborate on **AI Blockchain & VR/AR**
-
-- 🤝 I’m looking for help with **advanced solutions on Blockchain & VR**
+- 👯 I’m looking to collaborate on **AI Blockchain & Cyber**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GPradaT/](https://github.com/GPradaT/)
 
