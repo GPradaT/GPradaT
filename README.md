@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on [ft_trascendence]
   
-- 🌱 I’m currently learning **OAuth2.0, Django, PostgreSQL**
+- 🌱 I’m currently learning **Django, PostgreSQL, Kubernetes**
 
-- 👯 I’m looking to collaborate on **AI Blockchain & Cyber**
+- 👯 I’m looking to collaborate on **AI & Blockchain & Cyber**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GPradaT/](https://github.com/GPradaT/)
 
@@ -18,9 +18,7 @@
 
 - 📫 How to reach me **gpradat@andorra.ad, guillemprada@gmail.com**
 
-<!--- 📄 Know about my experiences [I have been working since I was 16, but I have always been curious to learn new things, this led me to start several courses in Communication and sales, vehicle electromechanical, administration until I finally found my passion. I am currently developing my career as a programmer, making great progress since my first terminal commands in August 2023 in the pool of 42.]
 
-- ⚡ Soft Skills **- I enjoy challenges.** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
